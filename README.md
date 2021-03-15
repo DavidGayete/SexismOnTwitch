@@ -41,4 +41,4 @@ train_path = data_path+'Train/'
 test_path = data_path+'Test'
 ```
 
-contact email: vallespuigramon@gmail.com | david.gayete02@estudiant.upf.edu
+contact email: vallespuigramon@gmail.com | davidgayete10@gmail.com
